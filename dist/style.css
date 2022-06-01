@@ -8,7 +8,7 @@ body {
 }
 h1 {
   margin: 40px auto;
-  color: #b94444;
+  color: #d93c46;
   text-align: center;
 }
 ul {
@@ -21,7 +21,7 @@ li {
   margin: 10px auto;
 }
 li h4 {
-  color: #b94444;
+  color: #d93c46;
   margin: 0;
   text-transform: capitalize;
 }
@@ -59,7 +59,7 @@ select {
 button {
   color: white;
   border: 0;
-  background: #b94444;
+  background: #d93c46;
   padding: 6px;
   min-width: 80px;
   border-radius: 4px;
